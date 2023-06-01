@@ -28,6 +28,7 @@ body{
     border-radius: 5%;
     display: flex;
     animation: modalin ease 2s;
+    min-width: 350px;
 }
 #main .content{
     width: 80%;
